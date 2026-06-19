@@ -2,7 +2,7 @@
 
 </p>
 <h1>Sign-In Logs for Users (Azure)</h1>
-This project outlines the process of viewing and interpreting Sign-In Logs of user accounts
+This Lab outlines the process of viewing and interpreting Sign-In Logs of user accounts
 in Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
